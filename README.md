@@ -10,4 +10,5 @@ Centralized server that handles client connections, forwarding and broadcasting.
 Next steps:
 
 *SSL support 
+
 *P2P messaging after chatroom setup. O(n) threads/queues for each client
